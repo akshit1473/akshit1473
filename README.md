@@ -5,8 +5,8 @@ actively building a foundation in Linux and systems engineering with a focus on 
 
 Current focus
 Working through Linux fundamentals systematically, not just limited to commands, but the mechanics underneath them.
-AreaStatusProcess management — jobs, signals, states, /proc CompletePATH, environment, command resolution Complete Pipes, redirection, file descriptors
-In progress File permissions — chmod, chown, rwx, setuidUp nextUsers and privilege model — sudo, /etc/passwd Up coming Shell scripting — variables, conditionals, loops Upcoming Networking fundamentals — TCP/IP, ports, SSHUpcoming
+AreaStatusProcess management — jobs, signals, states, /proc CompletePATH, environment, command resolution Complete Pipes, redirection, file descriptors. 
+In progress File permissions — chmod, chown, rwx.  setuidUp nextUsers and privilege model — sudo, /etc/passwd.  Up coming Shell scripting — variables, conditionals, loops.  Upcoming Networking fundamentals — TCP/IP, ports, SSHUpcoming
 
 
 Goal
