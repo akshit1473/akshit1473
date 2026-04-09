@@ -1,7 +1,7 @@
 
 Hi, I'm Akshit,
 actively building a foundation in Linux and systems engineering with a focus on DevOps, and a long-term interest in security.
-I learn by breaking things deliberately, documenting what I observe, and building small tools from each concept I cover. Every script in this profile exists because I understood the concept behind it first.
+
 
 Current focus
 Working through Linux fundamentals systematically, not just limited to commands, but the mechanics underneath them.
