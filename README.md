@@ -2,14 +2,22 @@
 Hi, I'm Akshit,
 actively building a foundation in Linux and systems engineering with a focus on DevOps, and a long-term interest in security.
 
+## Current focus
 
-Current focus
-Working through Linux fundamentals systematically, not just limited to commands, but the mechanics underneath them.
-AreaStatusProcess management — jobs, signals, states, /proc CompletePATH, environment, command resolution Complete Pipes, redirection, file descriptors. 
-In progress File permissions — chmod, chown, rwx.  setuidUp nextUsers and privilege model — sudo, /etc/passwd.  Up coming Shell scripting — variables, conditionals, loops.  Upcoming Networking fundamentals — TCP/IP, ports, SSHUpcoming
+Working through Linux fundamentals systematically — not just commands, but the mechanics underneath them.
+
+| Area | Status |
+|---|---|
+| Process management — jobs, signals, states, /proc | Complete |
+| PATH, environment, command resolution | Complete |
+| Pipes, redirection, file descriptors | In progress |
+| File permissions — chmod, chown, rwx, setuid | Up next |
+| Users and privilege model — sudo, /etc/passwd | Upcoming |
+| Shell scripting — variables, conditionals, loops | Upcoming |
+| Networking fundamentals — TCP/IP, ports, SSH | Upcoming |
 
 
-Goal
+Goal:
 DevOps engineer, with a secondary track into DevSecOps. 
 
 <!--
