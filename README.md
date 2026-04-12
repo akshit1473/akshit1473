@@ -10,8 +10,8 @@ Working through Linux fundamentals systematically — not just commands, but the
 |---|---|
 | Process management — jobs, signals, states, /proc | Complete |
 | PATH, environment, command resolution | Complete |
-| Pipes, redirection, file descriptors | In progress |
-| File permissions — chmod, chown, rwx, setuid | Up next |
+| Pipes, redirection, file descriptors | Complete |
+| File permissions — chmod, chown, rwx, setuid | In Progress |
 | Users and privilege model — sudo, /etc/passwd | Upcoming |
 | Shell scripting — variables, conditionals, loops | Upcoming |
 | Networking fundamentals — TCP/IP, ports, SSH | Upcoming |
