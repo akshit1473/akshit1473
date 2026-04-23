@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br> I’m currently working on  <br>Building Linux-based system tools (process monitor, log parser, security scripts) with a focus on understanding how systems actually behave.<br><br> I’m looking to collaborate on  <br>Open-source projects related to Linux, DevOps tooling, and security automation.<br><br> I’m looking for help with  <br>Deepening my understanding of system-level design, backend integration (APIs), and real-world DevSec workflows.<br><br> I’m currently learning  <br>Linux internals, Bash scripting, process management, and transitioning into backend integration (Flask → APIs).<br><br>
+About Me<br><br> I’m currently working on  <br>Building Linux-based system tools (process monitor, log parser, security scripts) with a focus on understanding how systems actually behave.<br><br> I’m looking to collaborate on  <br>Open-source projects related to Linux, DevOps tooling, and security automation.<br><br> I’m looking for help with  <br>Deepening my understanding of system-level design, backend integration (APIs), and real-world DevSec workflows.<br><br> I’m currently learning  <br>Linux internals, Bash scripting, process management, and transitioning into backend integration (Fast Apis).<br><br>
 
 
 ## 🌐 Socials:
