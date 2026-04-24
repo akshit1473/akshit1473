@@ -1,15 +1,51 @@
-# 💫 About Me:
-About Me<br><br> I’m currently working on  <br>Building Linux-based system tools (process monitor, log parser, security scripts) with a focus on understanding how systems actually behave.<br><br> I’m looking to collaborate on  <br>Open-source projects related to Linux, DevOps tooling, and security automation.<br><br> I’m looking for help with  <br>Deepening my understanding of system-level design, backend integration (APIs), and real-world DevSec workflows.<br><br> I’m currently learning  <br>Linux internals, Bash scripting, process management, and transitioning into backend integration (Fast Apis).<br><br>
+# Akshit — Systems & Security
 
+Building Linux-based system tools with a focus on DevOps 
+and a long-term interest in offensive security.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitjha999999@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akshit1473&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akshit1473&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshit1473&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What I'm building
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[linux-devsec-foundations](https://github.com/akshit1473/linux-devsec-foundations)**  
+Systematic Linux study covering processes, signals, pipes, 
+environment security, and PATH exploitation. Every concept 
+backed by terminal experiments with documented observations.
+
+**[system-monitor](https://github.com/akshit1473/system-monitor)**  
+System monitoring dashboard built from scratch. Bash scripts 
+audit PATH security, monitor process states, and detect zombie 
+processes — JSON output served via FastAPI.
+
+---
+
+## Current focus
+
+| Area | Status |
+|---|---|
+| Linux fundamentals — processes, signals, pipes | ✓ Complete |
+| Environment variables and security abuse | ✓ Complete |
+| Shell scripting — functions, exit codes, error handling | In progress |
+| File permissions and privilege escalation | Upcoming |
+| Networking fundamentals — TCP/IP, SSH, netcat | Upcoming |
+| FastAPI dashboard — live deployment | In progress |
+
+---
+
+## Stack
+
+![Shell](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
+---
+
+## Currently learning
+
+Linux internals → Shell scripting → Networking → 
+File permissions → Docker → DevSecOps
+
+---
+
+📬 [Email](akshitjha999999@gmail.com)
