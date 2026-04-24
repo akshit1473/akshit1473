@@ -44,7 +44,7 @@ processes — JSON output served via FastAPI.
 ## Currently learning
 
 Linux internals → Shell scripting → Networking → 
-File permissions → Docker → DevSecOps
+File permissions → Docker → 
 
 ---
 
