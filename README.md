@@ -1,20 +1,26 @@
 # Akshit — Systems & Security
 
-Building Linux-based system tools with a focus on DevOps 
+Building Linux-based system tools with a focus on DevOps
 and a long-term interest in offensive security.
 
 ---
 
 ## What I'm building
 
-**[linux-devsec-foundations](https://github.com/akshit1473/linux-devsec-foundations)**  
-Systematic Linux study covering processes, signals, pipes, 
-environment security, and PATH exploitation. Every concept 
+**[GhostPath — Real-Time Dev Environment Security Auditor](https://github.com/akshit1473/Real-Time-Dev-Environment-Security-Auditor)**
+Real-time PATH hijacking detection and exploit simulation tool.
+Bash scripts audit the shell environment for security misconfigurations,
+score risk severity, and demonstrate the attack chain live —
+served via FastAPI with a terminal-style frontend.
+
+**[linux-devsec-foundations](https://github.com/akshit1473/linux-devsec-foundations)**
+Systematic Linux study covering processes, signals, pipes,
+environment security, and PATH exploitation. Every concept
 backed by terminal experiments with documented observations.
 
-**[system-monitor](https://github.com/akshit1473/system-monitor)**  
-System monitoring dashboard built from scratch. Bash scripts 
-audit PATH security, monitor process states, and detect zombie 
+**[system-monitor](https://github.com/akshit1473/system-monitor)**
+System monitoring dashboard built from scratch. Bash scripts
+audit PATH security, monitor process states, and detect zombie
 processes — JSON output served via FastAPI.
 
 ---
@@ -25,10 +31,11 @@ processes — JSON output served via FastAPI.
 |---|---|
 | Linux fundamentals — processes, signals, pipes | ✓ Complete |
 | Environment variables and security abuse | ✓ Complete |
+| PATH hijacking — detection and exploit simulation | ✓ Complete |
 | Shell scripting — functions, exit codes, error handling | In progress |
 | File permissions and privilege escalation | Upcoming |
 | Networking fundamentals — TCP/IP, SSH, netcat | Upcoming |
-| FastAPI dashboard — live deployment | In progress |
+| GhostPath — live deployment | In progress |
 
 ---
 
@@ -43,9 +50,9 @@ processes — JSON output served via FastAPI.
 
 ## Currently learning
 
-Linux internals → Shell scripting → Networking → 
-File permissions → Docker 
+Linux internals → Shell scripting → Networking →
+File permissions → Docker → DevSecOps
 
 ---
 
-📬 [Email](akshitjha999999@gmail.com)
+📬 [Email](mailto:akshitjha999999@gmail.com)
