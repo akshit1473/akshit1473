@@ -1,5 +1,15 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E639&center=true&vCenter=true&width=600&lines=Linux+Systems+%7C+DevOps+%7C+Security;Building+real+tools%2C+not+tutorials;PATH+hijacking+detector+%2B+exploit+sim)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+
+
+<div align="center">
+
 # Akshit Jha
 
 **Systems Engineering · DevOps · Offensive Security**
