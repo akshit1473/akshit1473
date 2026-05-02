@@ -1,58 +1,138 @@
-# Akshit — Systems & Security
+<div align="center">
 
-Building Linux-based system tools with a focus on DevOps
-and a long-term interest in offensive security.
+# Akshit Jha
 
----
+**Systems Engineering · DevOps · Offensive Security**
 
-## What I'm building
 
-**[GhostPath — Real-Time Dev Environment Security Auditor](https://github.com/akshit1473/Real-Time-Dev-Environment-Security-Auditor)**
-Real-time PATH hijacking detection and exploit simulation tool.
-Bash scripts audit the shell environment for security misconfigurations,
-score risk severity, and demonstrate the attack chain live —
-served via FastAPI with a terminal-style frontend.
+[![GitHub](https://img.shields.io/badge/GitHub-akshit1473-181717?style=flat&logo=github)](https://github.com/akshit1473)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshit%20Jha-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Email](https://img.shields.io/badge/Email-akshitjha999999@gmail.com-EA4335?style=flat&logo=gmail)](mailto:akshitjha999999@gmail.com)
 
-**[linux-devsec-foundations](https://github.com/akshit1473/linux-devsec-foundations)**
-Systematic Linux study covering processes, signals, pipes,
-environment security, and PATH exploitation. Every concept
-backed by terminal experiments with documented observations.
-
-**[system-monitor](https://github.com/akshit1473/system-monitor)**
-System monitoring dashboard built from scratch. Bash scripts
-audit PATH security, monitor process states, and detect zombie
-processes — JSON output served via FastAPI.
+</div>
 
 ---
 
-## Current focus
-
-| Area | Status |
-|---|---|
-| Linux fundamentals — processes, signals, pipes | ✓ Complete |
-| Environment variables and security abuse | ✓ Complete |
-| PATH hijacking — detection and exploit simulation | ✓ Complete |
-| Shell scripting — functions, exit codes, error handling | In progress |
-| File permissions and privilege escalation | Upcoming |
-| Networking fundamentals — TCP/IP, SSH, netcat | Upcoming |
-| GhostPath — live deployment | In progress |
+```yaml
+name: Akshit Jha
+role: CSBS Student @ JSS Science and Technology University
+focus: DevOps and CyberSecurity 
+currently Built:
+  - GhostPath — real-time PATH hijacking detection + exploit simulation
+  - System monitoring dashboard with FastAPI JSON backend
+interests:
+  - Linux internals
+  - Offensive security tooling
+  - DevSecOps pipelines
+```
 
 ---
+
+## What I build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 GhostPath
+**Real-Time Dev Environment Security Auditor**
+
+Detects PATH hijacking vulnerabilities and simulates the
+attack chain live. Bash scripts audit the shell environment,
+a risk engine scores severity, FastAPI serves results,
+terminal-style frontend visualises them.
+
+`bash` `python` `fastapi` `security`
+
+[→ View repo](https://github.com/akshit1473/Real-Time-Dev-Environment-Security-Auditor)
+
+</td>
+<td width="50%">
+
+### 🟢 system-monitor
+**Process Monitoring Dashboard**
+
+Monitors CPU/memory usage, detects zombie processes,
+audits PATH security. JSON output via FastAPI.
+Bash scripts do the actual work — Python exposes it.
+
+`bash` `python` `fastapi` `devops`
+
+[→ View repo](https://github.com/akshit1473/system-monitor)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📖 linux-devsec-foundations
+**Systematic Linux Study**
+
+Every concept backed by terminal experiments with
+documented observations. Processes, signals, pipes,
+environment security, PATH exploitation —
+built toward DevSecOps.
+
+`linux` `bash` `security` `documentation`
+
+[→ View repo](https://github.com/akshit1473/linux-devsec-foundations)
+
+</td>
+</tr>
+</table>
+
 
 ## Stack
 
-![Shell](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+<div align="center">
+
+<div align="center">
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+</div>
 
 ---
 
-## Currently learning
+## GitHub stats
 
-Linux internals → Shell scripting → Networking →
-File permissions → Docker → DevSecOps
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/akshit1473-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshit1473)
+[![LinkedIn](https://img.shields.io/badge/Akshit_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-SLUG)
+[![Gmail](https://img.shields.io/badge/akshitjha999999-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitjha999999@gmail.com)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=akshit1473&theme=dark&hide_border=true&background=0B0E14&ring=00E639&fire=00E639&currStreakLabel=00E639)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-📬 [Email](mailto:akshitjha999999@gmail.com)
+<div align="center">
+
+
+
+</div>
