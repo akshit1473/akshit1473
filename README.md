@@ -129,7 +129,7 @@ built toward DevSecOps.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/akshit1473-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshit1473)
-[![LinkedIn](https://img.shields.io/badge/Akshit_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-SLUG)
+[![LinkedIn](https://img.shields.io/badge/Akshit_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshit_Jha)
 [![Gmail](https://img.shields.io/badge/akshitjha999999-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitjha999999@gmail.com)
 
 </div>
