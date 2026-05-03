@@ -16,7 +16,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-akshit1473-181717?style=flat&logo=github)](https://github.com/akshit1473)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshit%20Jha-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/akshit-jha-29810838a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshit%20Jha-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshit-jha-29810838a)
 [![Email](https://img.shields.io/badge/Email-akshitjha999999@gmail.com-EA4335?style=flat&logo=gmail)](mailto:akshitjha999999@gmail.com)
 
 </div>
