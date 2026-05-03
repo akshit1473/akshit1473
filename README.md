@@ -136,7 +136,7 @@ built toward DevSecOps.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshit1473&theme=dark&hide_border=true&background=0B0E14&ring=00E639&fire=00E639&currStreakLabel=00E639)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akshit1473&theme=dark&hide_border=true&background=0B0E14&ring=00E639&fire=00E639&currStreakLabel=00E639&dates=ffffff)](https://github.com/akshit1473)
 
 </div>
 
